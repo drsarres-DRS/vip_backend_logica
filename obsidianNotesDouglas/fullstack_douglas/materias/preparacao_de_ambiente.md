@@ -1,0 +1,4 @@
+- [x] SDK 8
+- [x] SDK 10
+- [x] GIT
+- [x] VISUAL_STUDIO
